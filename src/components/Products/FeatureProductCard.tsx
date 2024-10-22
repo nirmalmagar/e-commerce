@@ -30,8 +30,8 @@ const FeatureProductCard: FC<FeatureProductCardProps> = (props) => {
   );
 };
 
-const productCardClass{
-    image: "h-full w-full object-cover object-center group-hover:opacity-75"
-}
+// const productCardClass{
+//     image: "h-full w-full object-cover object-center group-hover:opacity-75"
+// }
 
 export default FeatureProductCard;
